@@ -1,0 +1,5 @@
+setenv haha hhhh
+setenv gogo
+unsetenv gogo
+./print_stop
+exit
